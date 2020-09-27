@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm [Abderahim Hamani!](https://www.linkedin.com/in/hamani0abderahim) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hamani0abderahim)
+<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)-->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HamaniAbderahi1)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rahim_Hamani)
 
+
+
+I'm a final year student pursuing master's in Software engineer 🎓 from Farhat abbas University of algeria 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 <!--
 **rahou0/rahou0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
