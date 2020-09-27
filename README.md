@@ -11,6 +11,8 @@
 
 I'm a final year student pursuing master's in Software engineer 🎓 from Farhat abbas University of algeria 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 
+
+### Personal Stuffs:
 - 🔭 I’m currently working on my project [AlphaLearn](https://www.linkedin.com/in/hamani0abderahim) 
 - 💻 I’m currently working on my Competitive Programming skills
 - 🌱 I’m currently exploring Machine Learning and Artificial Intelligence
@@ -35,7 +37,7 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+<img alt="flutter" width="26px" src="https://img.icons8.com/color/240/000000/flutter.png" />
 </code>](https://reactjs.org/)
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
@@ -68,10 +70,16 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 [<code>
+<img alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+</code>](https://dev.mysql.com/)
+[<code>
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
 [<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
+<img alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+</code>](https://www.markdownguide.org/)
+[<code>
+<img alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 </code>](https://www.markdownguide.org/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
@@ -90,11 +98,16 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
 [<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
+<img alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </code>](https://developer.apple.com/macos/)
 [<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+<img alt="swift" width="26px" src="https://img.icons8.com/color/96/000000/swift.png">
 </code>](https://www.kernel.org/)
+[<code>
+<img alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+</code>](https://www.kernel.org/)
+
+
 
 
 
