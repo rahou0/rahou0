@@ -52,8 +52,8 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -79,6 +79,9 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 </code>](https://dart.dev/)
 [<code>
+<img alt="C#" width="26px" src="https://img.icons8.com/color/2x/c-sharp-logo.png">
+</code>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
@@ -86,13 +89,13 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 </code>](https://github.com/)
 [<code>
 <img alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
-<img alt="swift" width="26px" src="https://img.icons8.com/color/96/000000/swift.png">
-</code>](https://www.kernel.org/)
+</code>](https://docs.microsoft.com/en-us/cpp/?view=vs-2019)
 [<code>
 <img alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-</code>](https://www.kernel.org/)
+</code>](https://www.android.com/)
+[<code>
+<img alt="ios" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">
+</code>](https://www.apple.com/ios/ios-14/)
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
