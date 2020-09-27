@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hamani0abderahim)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HamaniAbderahi1)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rahim_Hamani)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://fb.com/rahou0/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCRsF0J6f-7TEJsMbzqPa0-g)
 
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)-->
@@ -18,7 +18,7 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 - 🌱 I’m currently exploring Machine Learning and Artificial Intelligence
 - 📫 How to reach me: hamani97abderahim@gmail.com
 - 💬 Ask me about anything [Here](https://github.com/rahou0/rahou0/issues) 
-- 📝 Checkout my [Resume](https://www.linkedin.com/in/hamani0abderahim) 
+- 📝 Checkout my [Resume](https://github.com/rahou0/rahou0/blob/master/Hamani%20Abderahim.pdf) 
 
 
 
@@ -52,6 +52,15 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
+<img alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+</code>](https://dart.dev/)
+[<code>
+<img alt="C#" width="26px" src="https://img.icons8.com/color/2x/c-sharp-logo.png">
+</code>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<code>
+<img alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+</code>](https://docs.microsoft.com/en-us/cpp/?view=vs-2019)
+[<code>	
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
@@ -70,17 +79,8 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </code>](https://www.mongodb.com/)
 [<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
 <img alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 </code>](https://firebase.google.com/)
-[<code>
-<img alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-</code>](https://dart.dev/)
-[<code>
-<img alt="C#" width="26px" src="https://img.icons8.com/color/2x/c-sharp-logo.png">
-</code>](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
@@ -88,8 +88,8 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
-<img alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-</code>](https://docs.microsoft.com/en-us/cpp/?view=vs-2019)
+<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+</code>](https://www.latex-project.org/)
 [<code>
 <img alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
 </code>](https://www.android.com/)
