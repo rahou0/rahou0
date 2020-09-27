@@ -19,7 +19,6 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 - 📝 Checkout my [Resume](https://www.linkedin.com/in/hamani0abderahim) 
 
 
-<details>
   <summary><b>My Projects</b></summary>
 
   <br />
@@ -62,7 +61,6 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
     </tbody>
   </table>
   <br />
-</details>
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahou0&layout=compact)][github]
