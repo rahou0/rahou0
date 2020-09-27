@@ -19,9 +19,8 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 - 📝 Checkout my [Resume](https://www.linkedin.com/in/hamani0abderahim) 
 
 
-### Projects
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>My Projects</b></summary>
 
   <br />
   <table>
@@ -37,28 +36,28 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/rahou0/AlphaLearn"><b>AlphaLearn</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rahou0/AlphaLearn?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rahou0/AlphaLearn?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rahou0/AlphaLearn?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rahou0/AlphaLearn?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rahou0/AlphaLearn?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/rahou0/BFS-and-DFS-Algorithm"><b>BFS and DFS Algorithm</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rahou0/BFS-and-DFS-Algorithm?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rahou0/BFS-and-DFS-Algorithm?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rahou0/BFS-and-DFS-Algorithm?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rahou0/BFS-and-DFS-Algorithm?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rahou0/BFS-and-DFS-Algorithm?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/rahou0/Clock-in-c-"><b>Clock in c++</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rahou0/Clock-in-c-?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rahou0/Clock-in-c-?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rahou0/Clock-in-c-?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rahou0/Clock-in-c-?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rahou0/Clock-in-c-?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
