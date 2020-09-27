@@ -27,11 +27,11 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>Stars</b></td>
+        <td><b>Forks</b></td>
+        <td><b>Issues</b></td>
+        <td><b>Pull Requests</b></td>
+        <td><b>Language</b></td>
       </tr>
     </thead>
     <tbody>
@@ -49,10 +49,10 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
         <td><img alt="Forks" src="https://img.shields.io/github/forks/rahou0/BFS-and-DFS-Algorithm?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/rahou0/BFS-and-DFS-Algorithm?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rahou0/BFS-and-DFS-Algorithm?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rahou0/BFS-and-DFS-Algorithm?label=javascript&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rahou0/BFS-and-DFS-Algorithm?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/rahou0/Clock-in-c-"><b>Clock in c++</b></a></td>
+	      <td><a href="https://github.com/rahou0/Clock-in-c-"><b>Clock in c++ </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/rahou0/Clock-in-c-?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/rahou0/Clock-in-c-?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/rahou0/Clock-in-c-?style=flat-square"/></td>
