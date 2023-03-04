@@ -18,7 +18,7 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 - 🌱 I’m currently exploring Machine Learning and Artificial Intelligence
 - 📫 How to reach me: hamani97abderahim@gmail.com
 - 💬 Ask me about anything [Here](https://github.com/rahou0/rahou0/issues) 
-- 📝 Checkout my [Resume](https://github.com/rahou0/rahou0/blob/master/Hamani%20Abderahim.pdf) 
+- 📝 Checkout my [Resume](https://github.com/rahou0/rahou0/blob/master/Hamani-Abderahim-CV.pdf) 
 
 
 
