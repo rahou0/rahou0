@@ -13,7 +13,6 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 
 
 ### Personal Stuffs:
-- 🔭 I’m currently working on my project [AlphaLearn](https://www.linkedin.com/in/hamani0abderahim) 
 - 💻 I’m currently working on my Competitive Programming skills
 - 🌱 I’m currently exploring Machine Learning and Artificial Intelligence
 - 📫 How to reach me: hamani97abderahim@gmail.com
@@ -21,6 +20,11 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
 - 📝 Checkout my [Resume](https://github.com/rahou0/rahou0/blob/master/Hamani-Abderahim-CV_En.pdf) 
 
 
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
 
@@ -67,6 +71,10 @@ I'm a final year student pursuing master's in Software engineer 🎓 from Farhat
     </tbody>
   </table>
   <br />
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rahou0.rahou0)
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahou0&layout=compact)][github]
